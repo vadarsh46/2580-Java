@@ -1,6 +1,3 @@
-import java.net.Socket;
-import java.nio.channels.Pipe.SourceChannel;
-
 public class Mahindra {
     public static void main(String[] args) {
         String brand="Mahindra Thar";
