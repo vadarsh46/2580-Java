@@ -43,7 +43,7 @@ public class Data {
         System.out.println("Trainer Number= "+trainerno);
         System.out.println("Gender= "+sex);
 
-        //Course Details
+        //Course Output
         System.out.println("====================");
         System.out.println("Course Name= "+coursename);
         System.out.println("Course ID= "+courseid);
