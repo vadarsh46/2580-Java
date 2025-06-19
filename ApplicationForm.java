@@ -24,7 +24,7 @@ public class ApplicationForm {
         //Education
         String collegename="Sri Chaitanya Jr College";
         int yeargraduated=2025;
-        float Average=8.8f;
+        float average=8.8f;
 
         //Output
         System.out.println("________APPLICATION FOR COLLEGE ADMISSION TEST________:\n");
@@ -44,6 +44,9 @@ public class ApplicationForm {
         System.out.println("Mother Name:"+mothername);
         System.out.println("Occupation:"+occup);
         System.out.println("Contact Number:"+contactno);
+        System.out.println("College Name:"+collegename);
+        System.out.println("Year Graduated:"+yeargraduated);
+        System.out.println("Average:"+average);
     }   
 
 }
