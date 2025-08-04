@@ -38,6 +38,7 @@ public class ApplicationForm {
         System.out.println("Status:"+civilstatus);
         System.out.println("Contact Number:"+contact);
         System.out.println("Religion:"+Religion);
+        System.out.println("====================================");
         System.out.println("Father Name:"+fathername);
         System.out.println("Occupation:"+occupation);
         System.out.println("Contact  Number:"+contactno);
