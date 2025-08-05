@@ -3,14 +3,14 @@ public class Myntra {
         String brand="Highlander";
         String Des="Men Comfort relaxed fit collar casual shirt";
         Float ratingoutof5=4.6f;
-        int Offerprice=750;
+        short Offerprice=750;
         float discount=81.00f;
-        int mrp=3949;
+        short mrp=3949;
         //size
-        Short sizeS=39;
-        Short sizeM=40;
-        Short sizeL=42;
-        Short sizeXL=44;
+        byte sizeS=39;
+        byte sizeM=40;
+        byte sizeL=42;
+        byte sizeXL=44;
 
         System.out.println("===============================");
         System.out.println("Brand:"+brand);
